@@ -49,7 +49,7 @@ Tech:
 `PyTorch` `NLP` `Deep Learning`
 
 Repo:
-https://github.com/MostafaaElhadidy/Resume-LSTM
+https://github.com/MostafaaElhadidy/resume-screening-nlp
 
 ---
 
@@ -60,7 +60,7 @@ Tech:
 `AutoGluon` `Machine Learning`
 
 Repo:
-https://github.com/MostafaaElhadidy/Udacity-Bike-
+https://github.com/MostafaaElhadidy/bike-demand-prediction-automl
 
 ---
 
