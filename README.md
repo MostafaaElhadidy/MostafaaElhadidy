@@ -38,7 +38,7 @@ Tech:
 `AWS SageMaker` `Lambda` `Step Functions`
 
 Repo:
-https://github.com/MostafaaElhadidy/AWS
+https://github.com/MostafaaElhadidy/aws-ml-serverless-pipeline
 
 ---
 
