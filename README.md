@@ -27,7 +27,7 @@ Tech:
 `PyTorch` `Vision Transformers` `Medical Imaging`
 
 Repo:
-https://github.com/MostafaaElhadidy/Vision-Trans-Glioma
+https://github.com/MostafaaElhadidy/vision-transformer-brain-tumor
 
 ---
 
