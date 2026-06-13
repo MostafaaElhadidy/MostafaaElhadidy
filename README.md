@@ -1,122 +1,85 @@
-# Hi there 👋 I'm Mostafa Elhadidy
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mostafa%20Elhadidy&fontSize=50&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=55&descAlign=50" alt="" />
+</div>
 
-🎓 Computer Science Graduate – Alexandria University  
-🏆 Top 5 of the program | CGPA: 3.835  
-🤖 AI Engineer specializing in Machine Learning, Deep Learning, Computer Vision and NLP  
+<div align="center">
+  🎓 <b>Computer Science Graduate – Alexandria University (Top 5 | CGPA: 3.835)</b><br>
+  🤖 <i>Building intelligent, end-to-end AI systems using PyTorch, Transformers, and AWS.</i>
+</div>
 
-I build end-to-end AI systems using **PyTorch, TensorFlow, Transformers, and AWS**.
-
----
+<br>
 
 ## 🚀 About Me
 
-• AI Engineer passionate about building real-world ML systems  
-• Experience with **Computer Vision, NLP, and LLMs**  
-• Built production pipelines using **AWS SageMaker + Lambda + Step Functions**  
-• Strong background in **Transformers and Vision Transformers (ViT)**  
-• Experience with **RAG systems, LangChain, and Vector Databases**
+- 💡 **AI Engineer** passionate about deploying real-world, scalable machine learning systems.
+- 🧠 **Domain Expertise:** Computer Vision, NLP, Multi-Agent Systems, and Prompt Engineering.
+- ⚙️ **Engineering Focus:** Building production-grade pipelines with AWS SageMaker, Lambda, and Step Functions.
+- 📚 **Specialties:** Advanced RAG architectures, LangChain/LangGraph, Vision Transformers (ViT), and Vector Databases.
 
 ---
 
-## 🧠 AI Projects
+## 🧠 Featured AI Projects
 
-### Autonomous Multi-Agent DataOps System
-An AI-driven system utilizing specialized agents (such as triage, root cause analysis, remediation, and postmortem agents) to automatically monitor and resolve data pipeline incidents[cite: 3]. It features a React-based frontend dashboard and integrates directly with core data engineering infrastructure and runbooks[cite: 3].
+> ### 🤖 [Autonomous Multi-Agent DataOps System](https://github.com/MostafaaElhadidy/DataOps)
+> An AI-driven system utilizing specialized agents (triage, RCA, remediation, postmortem) to automatically monitor and resolve data pipeline incidents. Features a React-based dashboard and integrates directly with core data engineering infrastructure and runbooks.
+> <br> **Tech:** `Python` `Multi-Agent Systems` `Apache Spark` `Kafka` `Airflow` `Prometheus` `Grafana`
 
-Tech:
-`Python` `Multi-Agent Systems` `Apache Spark` `Kafka` `Airflow` `Prometheus` `Grafana`[cite: 3]
+> ### 🏛️ [Ancient Egypt Local RAG Chatbot & Eval Pipeline](https://github.com/MostafaaElhadidy/local_rag)
+> A production-ready, 100% local Retrieval-Augmented Generation chatbot to answer questions about Ancient Egypt, featuring a built-in RAGAS-style evaluation pipeline for automated metrics.
+> <br> **Tech:** `Python` `FastAPI` `Ollama` `ChromaDB`
 
-Repo:
-https://github.com/MostafaaElhadidy/DataOps
+> ### 🧠 [Brain Tumor Segmentation & Classification](https://github.com/MostafaaElhadidy/vision-transformer-brain-tumor)
+> Vision Transformer model trained for MRI brain tumor segmentation and classification.
+> <br> **Tech:** `PyTorch` `Vision Transformers` `Medical Imaging`
 
----
+> ### ☁️ [AWS ML Pipeline for Image Classification](https://github.com/MostafaaElhadidy/aws-ml-serverless-pipeline)
+> End-to-end serverless ML pipeline using AWS for automated image classification.
+> <br> **Tech:** `AWS SageMaker` `Lambda` `Step Functions`
 
-### Ancient Egypt Local RAG Chatbot & Evaluation Pipeline
-A production-ready, 100% local Retrieval-Augmented Generation chatbot to answer questions about Ancient Egypt, featuring a built-in RAGAS-style evaluation pipeline for automated metrics.
+> ### 📄 [Resume Screening NLP System](https://github.com/MostafaaElhadidy/resume-screening-nlp)
+> NLP system that ranks resumes based on job descriptions using LSTM networks.
+> <br> **Tech:** `PyTorch` `NLP` `Deep Learning`
 
-Tech:
-`Python` `FastAPI` `Ollama` `ChromaDB`
-
-Repo:
-https://github.com/MostafaaElhadidy/local_rag
-
----
-
-### Brain Tumor Segmentation & Classification
-Vision Transformer model trained for MRI brain tumor segmentation.
-
-Tech:
-`PyTorch` `Vision Transformers` `Medical Imaging`
-
-Repo:
-https://github.com/MostafaaElhadidy/vision-transformer-brain-tumor
-
----
-
-### AWS ML Pipeline for Image Classification
-End-to-end serverless ML pipeline using AWS.
-
-Tech:
-`AWS SageMaker` `Lambda` `Step Functions`
-
-Repo:
-https://github.com/MostafaaElhadidy/aws-ml-serverless-pipeline
-
----
-
-### Resume Screening NLP System
-NLP system that ranks resumes based on job descriptions using LSTM.
-
-Tech:
-`PyTorch` `NLP` `Deep Learning`
-
-Repo:
-https://github.com/MostafaaElhadidy/resume-screening-nlp
-
----
-
-### Bike Share Demand Prediction
-AutoML pipeline for demand forecasting using Kaggle dataset.
-
-Tech:
-`AutoGluon` `Machine Learning`
-
-Repo:
-https://github.com/MostafaaElhadidy/bike-demand-prediction-automl
+> ### 🚲 [Bike Share Demand Prediction](https://github.com/MostafaaElhadidy/bike-demand-prediction-automl)
+> AutoML pipeline for demand forecasting using a Kaggle dataset.
+> <br> **Tech:** `AutoGluon` `Machine Learning`
 
 ---
 
 ## 🛠 Tech Stack
 
-### Programming
+**Programming & Databases**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI / ML
+**AI / Machine Learning**<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Transformers](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### Cloud
+**Cloud, MLOps & Tools**<br>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
-### Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaaElhadidy&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaaElhadidy&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MostafaaElhadidy&show_icons=true&theme=tokyonight" alt="Mostafa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaaElhadidy&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
 
 ---
 
-## 📫 Contact Me
+## 📫 Let's Connect
 
-📧 Email: mostafaelhadidy442@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/mostafa-elhadidy  
-💻 GitHub: https://github.com/MostafaaElhadidy
+<div align="center">
+  <a href="mailto:mostafaelhadidy442@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/mostafa-elhadidy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/MostafaaElhadidy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
