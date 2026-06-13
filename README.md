@@ -11,11 +11,25 @@ I build end-to-end AI systems using **PyTorch, TensorFlow, Transformers, and AWS
 ## 🚀 About Me
 
 • AI Engineer passionate about building real-world ML systems  
-• Experience with **Computer Vision, NLP, and LLMs** • Built production pipelines using **AWS SageMaker + Lambda + Step Functions** • Strong background in **Transformers and Vision Transformers (ViT)** • Experience with **RAG systems, LangChain, and Vector Databases**
+• Experience with **Computer Vision, NLP, and LLMs**  
+• Built production pipelines using **AWS SageMaker + Lambda + Step Functions**  
+• Strong background in **Transformers and Vision Transformers (ViT)**  
+• Experience with **RAG systems, LangChain, and Vector Databases**
 
 ---
 
 ## 🧠 AI Projects
+
+### Autonomous Multi-Agent DataOps System
+An AI-driven system utilizing specialized agents (such as triage, root cause analysis, remediation, and postmortem agents) to automatically monitor and resolve data pipeline incidents[cite: 3]. It features a React-based frontend dashboard and integrates directly with core data engineering infrastructure and runbooks[cite: 3].
+
+Tech:
+`Python` `Multi-Agent Systems` `Apache Spark` `Kafka` `Airflow` `Prometheus` `Grafana`[cite: 3]
+
+Repo:
+https://github.com/MostafaaElhadidy/DataOps
+
+---
 
 ### Ancient Egypt Local RAG Chatbot & Evaluation Pipeline
 A production-ready, 100% local Retrieval-Augmented Generation chatbot to answer questions about Ancient Egypt, featuring a built-in RAGAS-style evaluation pipeline for automated metrics.
