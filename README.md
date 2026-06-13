@@ -11,14 +11,22 @@ I build end-to-end AI systems using **PyTorch, TensorFlow, Transformers, and AWS
 ## 🚀 About Me
 
 • AI Engineer passionate about building real-world ML systems  
-• Experience with **Computer Vision, NLP, and LLMs**  
-• Built production pipelines using **AWS SageMaker + Lambda + Step Functions**  
-• Strong background in **Transformers and Vision Transformers (ViT)**  
-• Experience with **RAG systems, LangChain, and Vector Databases**
+• Experience with **Computer Vision, NLP, and LLMs** • Built production pipelines using **AWS SageMaker + Lambda + Step Functions** • Strong background in **Transformers and Vision Transformers (ViT)** • Experience with **RAG systems, LangChain, and Vector Databases**
 
 ---
 
 ## 🧠 AI Projects
+
+### Ancient Egypt Local RAG Chatbot & Evaluation Pipeline
+A production-ready, 100% local Retrieval-Augmented Generation chatbot to answer questions about Ancient Egypt, featuring a built-in RAGAS-style evaluation pipeline for automated metrics.
+
+Tech:
+`Python` `FastAPI` `Ollama` `ChromaDB`
+
+Repo:
+https://github.com/MostafaaElhadidy/local_rag
+
+---
 
 ### Brain Tumor Segmentation & Classification
 Vision Transformer model trained for MRI brain tumor segmentation.
