@@ -20,9 +20,9 @@
 
 ## 🧠 Featured AI Projects
 
-> ### 🤖 [Autonomous Multi-Agent DataOps System](https://github.com/MostafaaElhadidy/DataOps)
-> An AI-driven system utilizing specialized agents (triage, RCA, remediation, postmortem) to automatically monitor and resolve data pipeline incidents. Features a React-based dashboard and integrates directly with core data engineering infrastructure and runbooks.
-> <br> **Tech:** `Python` `Multi-Agent Systems` `Apache Spark` `Kafka` `Airflow` `Prometheus` `Grafana`
+> ### 🤖 [Automated IT Service Manager (SynapseITSM)](https://github.com/MostafaaElhadidy/Automated-IT-Service-Manager)
+> An agentic IT Service Management (ITSM) system utilizing a multi-agent architecture to autonomously resolve IT service requests, execute runbooks, and manage workflows. Features a Chainlit-powered conversational UI.
+> <br> **Tech:** `Python` `Multi-Agent Systems` `Chainlit` `LLMs` `Alembic`
 
 > ### 🏛️ [Ancient Egypt Local RAG Chatbot & Eval Pipeline](https://github.com/MostafaaElhadidy/local_rag)
 > A production-ready, 100% local Retrieval-Augmented Generation chatbot to answer questions about Ancient Egypt, featuring a built-in RAGAS-style evaluation pipeline for automated metrics.
