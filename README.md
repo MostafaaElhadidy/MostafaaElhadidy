@@ -24,6 +24,10 @@
 > An agentic IT Service Management (ITSM) system utilizing a multi-agent architecture to autonomously resolve IT service requests, execute runbooks, and manage workflows. Features a Chainlit-powered conversational UI.
 > <br> **Tech:** `Python` `Multi-Agent Systems` `Chainlit` `LLMs` `Alembic`
 
+> ### 💼 [AutoJobApplierGPT — Autonomous Job-Matching & Resume-Tailoring Agent](https://github.com/MostafaaElhadidy/Auto-Job-Applier-n8n)
+> An autonomous n8n workflow that scrapes LinkedIn for relevant AI/ML roles every 4 hours, screens each posting's fit with GPT-4o-mini, and auto-generates a tailored resume for every match — fully hands-off job-hunting automation.
+> <br> **Tech:** `n8n` `Apify` `OpenAI GPT-4o-mini` `Google APIs`
+
 > ### 🏛️ [Ancient Egypt Local RAG Chatbot & Eval Pipeline](https://github.com/MostafaaElhadidy/local_rag)
 > A production-ready, 100% local Retrieval-Augmented Generation chatbot to answer questions about Ancient Egypt, featuring a built-in RAGAS-style evaluation pipeline for automated metrics.
 > <br> **Tech:** `Python` `FastAPI` `Ollama` `ChromaDB`
