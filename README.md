@@ -20,6 +20,14 @@
 
 ## 🧠 Featured AI Projects
 
+> ### ⚡ [Colibri × Qwen3-Coder: Faster MoE Expert Loading](https://github.com/MostafaaElhadidy/Colibri_Qwen_Optimization)
+> A research fork of the colibri inference engine, which runs a 30B Mixture-of-Experts LLM on a 12 GB machine by streaming experts from the SSD. Parallel miss loading and a bit-exact expert-major prefill cut time to first token on a 514-token prompt from 376 s to 30 s (−92%) and disk reads from 283 GB to 35 GB, with byte-identical output.
+> <br> **Tech:** `C` `OpenMP` `LLM Inference` `Mixture-of-Experts` `Performance Engineering`
+
+> ### 🗂️ [Agentic KV-Cache Management (CacheScout Replication)](https://github.com/MostafaaElhadidy/Agentic-KV-Cache-Management)
+> An independent replication of CacheScout, agent-aware KV-cache eviction for multi-agent LLM apps, built as a vLLM 0.31 scheduler plugin and benchmarked on an 8 GB laptop GPU. On a real six-agent GSM8K workload it raised the cache hit rate by 5.7–6.5 pp (positive in 35 of 36 runs), with an honest scorecard of what did and did not reproduce.
+> <br> **Tech:** `Python` `vLLM` `KV Cache` `Multi-Agent Systems` `LLM Serving`
+
 > ### 🤖 [Automated IT Service Manager (SynapseITSM)](https://github.com/MostafaaElhadidy/Automated-IT-Service-Manager)
 > An agentic IT Service Management (ITSM) system utilizing a multi-agent architecture to autonomously resolve IT service requests, execute runbooks, and manage workflows. Features a Chainlit-powered conversational UI.
 > <br> **Tech:** `Python` `Multi-Agent Systems` `Chainlit` `LLMs` `Alembic`
